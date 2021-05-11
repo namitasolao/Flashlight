@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Flashlight</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="on_offSwitch">On/Off</string>
+
+
+</resources>

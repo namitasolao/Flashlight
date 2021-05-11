@@ -1,0 +1,2 @@
+rootProject.name = "flashlight1"
+include ':app'
